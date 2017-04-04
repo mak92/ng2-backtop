@@ -1,6 +1,6 @@
 import {NgModule} from '@angular/core';
 import {CommonModule} from '@angular/common';
-import {BacktopDirective} from './ng2-backtop.directive'
+import {BacktopDirective} from './ng2-backtop.directive';
 
 
 @NgModule({
